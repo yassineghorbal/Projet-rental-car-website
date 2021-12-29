@@ -38,7 +38,7 @@ function validation_contact() {
   alert(username + " " + email + " " + phone + " " + sujet + " " + message);
 }
 
-// ------------------javascript for bookin---------------------
+// ------------------javascript for booking---------------------
 var type,
   basePrice,
   fuel,
